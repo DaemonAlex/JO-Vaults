@@ -75,10 +75,3 @@ import vaults.sql
 ensure qb-vault
 change sh_config.lua to your Own Prefer
 ```
-### You Dont need to add the target to qbtarget config . you need to remove them for this update.
-
-## WIP
-
-```
-- Make Vault Hackable
-```
